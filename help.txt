@@ -1,0 +1,11 @@
+
+NAME
+    golo - Make commands' output good-looking.
+
+SYNOPSIS    
+    <command-line> | golo <command-name>
+    <command-line> | golo [--command | -c <command-name>]
+    
+ARGUMENTS 
+    --command | -c <command-name>
+    Tell `golo` which command generates the raw text.

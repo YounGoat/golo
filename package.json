@@ -1,0 +1,36 @@
+{
+    "bin": {
+        "golo": "bin/golo.js"
+    },
+    "dependencies": {
+        "colors": "^1.4.0",
+        "commandos": "^0.3.1",
+        "noda": "^0.5.0"
+    },
+    "devDependencies": {},
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "golo",
+    "version": "0.0.1",
+    "main": "index.js",
+    "keywords": [
+        "cli",
+        "color"
+    ],
+    "os": [
+        "darwin"
+    ],
+    "homepage": "https://github.com/YounGoat/golo",
+    "description": "Make output of general commands GOod-LOoking",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/golo.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io/"
+    }
+}
